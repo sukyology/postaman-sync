@@ -8,6 +8,8 @@ servers:
     description: this is test server
   - url: 'dev:8080'
     description: this is dev server
+  - url: 'production:8080'
+    description: this is production
 paths:
   /user:
     get:
