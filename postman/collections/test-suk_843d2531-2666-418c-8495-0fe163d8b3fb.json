@@ -119,6 +119,19 @@
                     "body": "{\n \"code\": -79163680,\n \"message\": \"sunt ut do in Duis\"\n}"
                 }
             ]
+        },
+        {
+            "name": "New Request",
+            "id": "3accbe5f-7acb-4927-a9c8-deea76e2c85d",
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": null
+            },
+            "response": []
         }
     ],
     "auth": {
